@@ -5,4 +5,4 @@ yang berisi beberapa class. Untuk menghubungkan ke databasenya, saya menggunakan
 
 # Review Website
 
-![Alt Text](https://www.instagram.com/tv/B_U4-YMj753/?utm_source=ig_web_copy_link)
+https://www.instagram.com/tv/B_U4-YMj753/?utm_source=ig_web_copy_link
